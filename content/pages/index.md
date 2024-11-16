@@ -39,7 +39,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Learnings
+      text: Our learnings
       color: text-dark
       styles:
         self:
