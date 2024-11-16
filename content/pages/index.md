@@ -104,7 +104,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Why are you looking for a job in MUGO
           width: full
           type: TextareaFormControl
       elementId: contact-form
