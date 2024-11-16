@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/MUGO_DEPT.jpg
+      url: /images/MUGO_DEPT (1).jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
