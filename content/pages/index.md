@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Creating an amazing clothing brand
+      text: Building an amazing clothing brand
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
