@@ -105,7 +105,7 @@ sections:
           label: Message
           hideLabel: true
           placeholder: Your message
-          width: full
+          width: 1/2
           type: TextareaFormControl
       elementId: contact-form
       styles:
