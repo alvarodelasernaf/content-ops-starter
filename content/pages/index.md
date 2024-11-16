@@ -115,7 +115,7 @@ sections:
             - pb-6
             - pl-6
             - pr-6
-          borderColor: border-light
+          borderColor: border-neutral
           borderStyle: dashed
           borderWidth: 1
           borderRadius: small
