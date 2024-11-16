@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: MUGO BOY
       color: text-primary
       type: Badge
     elementId: ''
