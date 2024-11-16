@@ -116,7 +116,7 @@ sections:
             - pl-6
             - pr-6
           borderColor: border-neutral
-          borderStyle: dashed
+          borderStyle: solid
           borderWidth: 1
           borderRadius: small
       type: FormBlock
