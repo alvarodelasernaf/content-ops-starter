@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Building an amazing clothing brand
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: MUGO DEPARTMENT
     text: >
