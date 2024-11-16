@@ -15,7 +15,7 @@ sections:
     actions:
       - label: See Tutorials
         altText: ''
-        url: /
+        url: 'https://mugoboy.netlify.app/blog/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
